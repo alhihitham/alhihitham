@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**alhihitham/alhihitham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://github.com/user-attachments/assets/ac018095-4bb5-4ca3-bdd6-f1de57b5b582" width="250">
+</p>
 
-Here are some ideas to get you started:
+<h3 align="center">
+🎀 hii i'm 16 y.o from Kazakhstan 🎀
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+I love books, pink things and Alhaitham ♡
+</p>
+
+<p align="center">
+I don't mind making new friends 🌸
+</p>
+(￣y▽￣)╭ aiming for band 8 on IELTS
